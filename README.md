@@ -1,6 +1,20 @@
-# Hi there, I'm Rajan Puri 👋
+# Hello, I'm Rajan Puri 👋
 
 Welcome to my homepage! 
+
+I currently work as a Vice President, Quantitative Finance Analyst at Bank of America. My main role involves analyzing a large amount of financial data and creating models to help the bank make informed business decisions and effectively manage risks.
+
+Prior to joining Bank of America, I worked as a Visiting Assistant Professor in the Department of Mathematics and Statistics at Wake Forest University.
+
+I hold a Ph.D. in Applied Mathematics from the University of North Carolina at Charlotte. Throughout my graduate studies, I actively engaged in campus community and held positions such as Grad Life Fellow and President of the Mathematics Graduate Student Association. I received David Merchant International Student Award from the Phi Beta Delta Honor Society, recognizing my achievements in the areas of scholarship and service.
+
+Before pursuing my Ph.D., I obtained an MS degree in Mathematics from Tribhuvan University in Nepal. Additionally, I have three years of experience teaching high school math in Nepal. 
+
+Originally from the beautiful country of Nepal, I have a strong affinity for the mountains and enjoy spending time outdoors in nature. 
+
+Please don't hesitate to connect or reach out if you have any questions. 
+
+Thanks for visiting my profile. Have a great day!
 <!--
 ## 🚀 About Me
 
@@ -12,7 +26,7 @@ Welcome to my homepage!
 - 💬 Ask me about quantitative finance, applied mathematics, and data analysis.
 - 📫 How to reach me: [purirajan.rp@gmail.com](mailto:purirajan.rp@gmail.com)
 - ⚡ Fun fact: I have a strong affinity for the mountains and enjoy spending time outdoors in nature.
--->
+
 ## 📚 My Background
 
 ### Current Role:
@@ -29,7 +43,7 @@ Welcome to my homepage!
   - Recipient of the David Merchant International Student Award from the Phi Beta Delta Honor Society
 - **MS in Mathematics** from Tribhuvan University, Nepal
 
-<!-- ## 🔧 Technologies & Tools
+ ## 🔧 Technologies & Tools
 
 ![Tech and Tools](https://skillicons.dev/icons?i=python,java,cpp,matlab,git,github,vscode,linux)
 
@@ -57,4 +71,4 @@ Welcome to my homepage!
 
 ---
 
-Thanks for visiting my profile. Have a great day!
+
