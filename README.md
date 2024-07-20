@@ -29,11 +29,11 @@ Welcome to my homepage!
   - Recipient of the David Merchant International Student Award from the Phi Beta Delta Honor Society
 - **MS in Mathematics** from Tribhuvan University, Nepal
 
-## 🔧 Technologies & Tools
+<!-- ## 🔧 Technologies & Tools
 
 ![Tech and Tools](https://skillicons.dev/icons?i=python,java,cpp,matlab,git,github,vscode,linux)
 
-<!--## 📝 My Projects
+## 📝 My Projects
 
 ### Project 1: Financial Risk Management Model
 - **Description:** Developed a comprehensive model to assess and manage financial risks.
@@ -44,11 +44,11 @@ Welcome to my homepage!
 - **Description:** A toolkit for performing advanced quantitative analysis and financial forecasting.
 - **Technologies:** Python, R
 - **Repo:** [Link to Repo](https://github.com/purirajan/quantitative-analysis-toolkit)
--->
+
 ## 📈 GitHub Stats
 
 ![Rajan Puri's GitHub stats](https://github-readme-stats.vercel.app/api?username=purirajan&show_icons=true&theme=radical)
-
+-->
 ## 📫 Get in Touch
 
 - Email: [purirajan.rp@gmail.com](mailto:purirajan.rp@gmail.com)
