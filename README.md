@@ -21,8 +21,6 @@ Quantitative Finance professional with a Ph.D. in Applied Mathematics specializi
 
 Currently developing regulatory and portfolio risk models for consumer lending portfolios, with experience spanning model development, validation, governance, and deployment within CCAR, CECL, and Basel frameworks.
 
-My work combines mathematics, machine learning, and data engineering to build production-grade risk analytics systems using Python, PySpark, SQL, Spark, and cloud-native technologies.
-
 ---
 
 ## Areas of Expertise
@@ -79,8 +77,6 @@ Whether you're interested in quantitative finance, credit risk modeling, machine
 💼 **LinkedIn:** https://linkedin.com/in/rajanpuri
 
 🐙 **GitHub:** https://github.com/purirajan
-
-."*
 
 ---
 
