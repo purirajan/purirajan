@@ -25,18 +25,31 @@ My work combines mathematics, machine learning, and data engineering to build pr
 
 ---
 
-## Core Expertise
+## Areas of Expertise
 
-📊 Credit Risk Modeling  
-📈 Statistical Learning & Forecasting  
-🏦 Consumer Lending Analytics  
-⚖️ Model Risk Management (MRM)  
-📉 CECL & CCAR Frameworks  
-💰 Basel Capital Analytics  
-⚙️ Data Engineering & Automation  
-🚀 Distributed Computing (Spark/Hadoop)
+- Credit Risk Modeling
+- Statistical Learning
+- Machine Learning
+- Explainable AI (XAI)
+- Model Risk Management (MRM)
+- Consumer Lending Analytics
+- CECL & CCAR Frameworks
+- Basel Regulatory Modeling
+- Forecasting & Time Series Analysis
+- Data Engineering
+- Distributed Computing
+- Applied Mathematics
 
 ---
+
+## Currently Exploring
+
+- Explainable AI (SHAP, Feature Attribution)
+- Gradient Boosting Models (XGBoost, LightGBM)
+- MLOps & Model Monitoring
+- Generative AI for Risk Analytics
+- Production Machine Learning Systems
+- Cloud-Native Data Science Platforms
 
 ## Tech Stack
 
