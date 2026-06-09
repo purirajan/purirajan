@@ -1,74 +1,93 @@
-# Hello, I'm Rajan Puri 👋
+# Hi, I'm Rajan Puri.
 
-Welcome to my homepage! 
+**Quantitative Finance Analyst | Applied Mathematician | Risk Modeling & Data Science**
 
-I currently work as a Vice President, Quantitative Finance Analyst at Bank of America. My main role involves analyzing a large amount of financial data and creating models to help the bank make informed business decisions and effectively manage risks.
+I am a Quantitative Finance professional with a Ph.D. in Applied Mathematics specializing in credit risk modeling, statistical learning, and scalable analytics solutions.
 
-Prior to joining Bank of America, I worked as a Visiting Assistant Professor in the Department of Mathematics and Statistics at Wake Forest University.
-
-I hold a Ph.D. in Applied Mathematics from the University of North Carolina at Charlotte. Throughout my graduate studies, I actively engaged in campus community and held positions such as Grad Life Fellow and President of the Mathematics Graduate Student Association. I received David Merchant International Student Award from the Phi Beta Delta Honor Society, recognizing my achievements in the areas of scholarship and service.
-
-Before pursuing my Ph.D., I obtained an MS degree in Mathematics from Tribhuvan University in Nepal. Additionally, I have three years of experience teaching high school math in Nepal. 
-
-Originally from the beautiful country of Nepal, I have a strong affinity for the mountains and enjoy spending time outdoors in nature. 
-
-Please don't hesitate to connect or reach out if you have any questions. 
-
-Thanks for visiting my profile. Have a great day!
-<!--
-## 🚀 About Me
-
-- 🔭 I’m currently working on developing financial models and risk management strategies at Bank of America.
-- 🌱 I’m currently learning advanced techniques in quantitative finance and data analysis.
-- 👯 I’m looking to collaborate on projects related to financial modeling, quantitative analysis, and risk management.
-- 🤔 I’m looking for help with optimizing financial models and exploring new quantitative finance methodologies.
-
-- 💬 Ask me about quantitative finance, applied mathematics, and data analysis.
-- 📫 How to reach me: [purirajan.rp@gmail.com](mailto:purirajan.rp@gmail.com)
-- ⚡ Fun fact: I have a strong affinity for the mountains and enjoy spending time outdoors in nature.
-
-## 📚 My Background
-
-### Current Role:
-- **Vice President, Quantitative Finance Analyst** at Bank of America
-  - Analyzing financial data
-  - Creating models for business decisions and risk management
-
-### Previous Experience:
-- **Visiting Assistant Professor** in the Department of Mathematics and Statistics at Wake Forest University
-
-### Education:
-- **Ph.D. in Applied Mathematics** from the University of North Carolina at Charlotte
-  - Grad Life Fellow and President of the Mathematics Graduate Student Association
-  - Recipient of the David Merchant International Student Award from the Phi Beta Delta Honor Society
-- **MS in Mathematics** from Tribhuvan University, Nepal
-
- ## 🔧 Technologies & Tools
-
-![Tech and Tools](https://skillicons.dev/icons?i=python,java,cpp,matlab,git,github,vscode,linux)
-
-## 📝 My Projects
-
-### Project 1: Financial Risk Management Model
-- **Description:** Developed a comprehensive model to assess and manage financial risks.
-- **Technologies:** Python, MATLAB
-- **Repo:** [Link to Repo](https://github.com/purirajan/financial-risk-management)
-
-### Project 2: Quantitative Analysis Toolkit
-- **Description:** A toolkit for performing advanced quantitative analysis and financial forecasting.
-- **Technologies:** Python, R
-- **Repo:** [Link to Repo](https://github.com/purirajan/quantitative-analysis-toolkit)
-
-## 📈 GitHub Stats
-
-![Rajan Puri's GitHub stats](https://github-readme-stats.vercel.app/api?username=purirajan&show_icons=true&theme=radical)
--->
-## 📫 Get in Touch
-
-- Email: [purirajan.rp@gmail.com](mailto:purirajan.rp@gmail.com)
-- LinkedIn: [  My LinkedIn Profile](https://www.linkedin.com/in/razanpuri/)
-- Personal Website: [ Website](https://sites.google.com/view/rajanpuri//)
+My experience spans the full model development lifecycle—from data engineering and feature development to model deployment, monitoring, governance, and regulatory compliance. I work extensively with Python, PySpark, SQL, Spark, and Hadoop environments to build production-grade solutions for consumer lending portfolios.
 
 ---
 
+## About Me
 
+- 📊 Quantitative Finance Analyst focused on Consumer Lending and Credit Risk
+- 📈 Experienced in statistical modeling, forecasting, and risk analytics
+- ⚙️ Building scalable data pipelines and model monitoring frameworks
+- 🏦 Working with regulatory risk models supporting CCAR, CECL, and Basel frameworks
+- 🎓 Ph.D. in Applied Mathematics from UNC Charlotte
+- 📚 Former university instructor in Calculus, Statistics, Linear Algebra, and Differential Equations
+- 🌱 Exploring Machine Learning, MLOps, and Data Engineering
+
+---
+
+## Areas of Expertise
+
+- Credit Risk Modeling
+- Consumer Lending Analytics
+- Statistical Learning
+- Model Risk Management (MRM)
+- CECL & CCAR Frameworks
+- Basel Regulatory Modeling
+- Machine Learning
+- Forecasting & Time Series Analysis
+- Data Engineering
+- Distributed Computing
+- Applied Mathematics
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+`Python` `SQL` `PySpark` `SAS`
+
+### Data Science & Analytics
+
+`Pandas` `NumPy` `Scikit-Learn` `Statistical Modeling`
+
+### Big Data Technologies
+
+`Spark` `Hadoop` `Hive`
+
+### Software Development
+
+`Git` `CI/CD` `Unit Testing` `Automation`
+
+### Domain Expertise
+
+`Credit Risk` `Consumer Lending` `Model Governance` `Regulatory Analytics`
+
+---
+
+## Research Interests
+
+- Quantitative Finance
+- Credit Risk Analytics
+- Machine Learning
+- Statistical Modeling
+- Applied Mathematics
+- Data Engineering
+- Optimization
+- Scientific Computing
+
+---
+
+## Education
+
+**Ph.D., Applied Mathematics**  
+University of North Carolina at Charlotte
+
+
+---
+
+## Connect With Me
+
+- 🌐 Website: https://rajanpuri.com
+- 💼 LinkedIn: https://linkedin.com/in/rajanpuri
+- 📧 Email: purirajan.rp@gmail.com
+- 🐙 GitHub: https://github.com/purirajan
+
+---
+
+> Bridging mathematics, data science, and engineering to solve complex financial problems.
