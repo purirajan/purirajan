@@ -82,11 +82,8 @@ Whether you're interested in quantitative finance, credit risk modeling, machine
 
 💼 **LinkedIn:** https://linkedin.com/in/rajanpuri
 
-📧 **Email:** purirajan.rp@gmail.com
-
 🐙 **GitHub:** https://github.com/purirajan
 
-📍 **Location:** Charlotte, North Carolina, USA
 
 ---
 
