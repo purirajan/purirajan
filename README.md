@@ -30,7 +30,6 @@ My work combines mathematics, machine learning, and data engineering to build pr
 - Credit Risk Modeling
 - Statistical Learning
 - Machine Learning
-- Explainable AI (XAI)
 - Model Risk Management (MRM)
 - Consumer Lending Analytics
 - CECL & CCAR Frameworks
@@ -44,15 +43,12 @@ My work combines mathematics, machine learning, and data engineering to build pr
 
 ## Currently Exploring
 
-- Explainable AI (SHAP, Feature Attribution)
-- Gradient Boosting Models (XGBoost, LightGBM)
+- Explainable AI 
 - MLOps & Model Monitoring
 - Generative AI for Risk Analytics
 - Production Machine Learning Systems
-- Cloud-Native Data Science Platforms
 
 ## Tech Stack
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
