@@ -59,6 +59,26 @@ My work combines mathematics, machine learning, and data engineering to build pr
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21)
 
+## Let's Connect
+
+I'm always happy to exchange ideas, collaborate on interesting projects, and learn from others in the community.
+
+Whether you're interested in quantitative finance, credit risk modeling, machine learning, data engineering, applied mathematics, or open-source development, feel free to reach out. I enjoy engaging with professionals, researchers, and developers who are passionate about solving complex problems through data, analytics, and technology.
+
+🌐 **Website:** https://rajanpuri.com
+
+💼 **LinkedIn:** https://linkedin.com/in/rajanpuri
+
+📧 **Email:** purirajan.rp@gmail.com
+
+🐙 **GitHub:** https://github.com/purirajan
+
+📍 **Location:** Charlotte, North Carolina, USA
+
+---
+
+*"Bridging mathematics, data science, and engineering to solve complex financial risk problems."*
+
 ---
 
 > Bridging mathematics, data science, and engineering to solve complex financial risk problems.
