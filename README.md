@@ -80,10 +80,7 @@ Whether you're interested in quantitative finance, credit risk modeling, machine
 
 🐙 **GitHub:** https://github.com/purirajan
 
-
----
-
-*"Bridging mathematics, data science, and engineering to solve complex financial risk problems."*
+."*
 
 ---
 
