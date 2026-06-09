@@ -1,93 +1,64 @@
-# Hi, I'm Rajan Puri.
+# Rajan Puri
 
-**Quantitative Finance Analyst | Applied Mathematician | Risk Modeling & Data Science**
+### Quantitative Finance | Credit Risk Modeling | Applied Mathematics
 
-I am a Quantitative Finance professional with a Ph.D. in Applied Mathematics specializing in credit risk modeling, statistical learning, and scalable analytics solutions.
-
-My experience spans the full model development lifecycle—from data engineering and feature development to model deployment, monitoring, governance, and regulatory compliance. I work extensively with Python, PySpark, SQL, Spark, and Hadoop environments to build production-grade solutions for consumer lending portfolios.
+![Quant Finance](https://img.shields.io/badge/Quantitative-Finance-0A2540?style=for-the-badge)
+![Credit Risk](https://img.shields.io/badge/Credit-Risk_Modeling-1F6FEB?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-FF6F00?style=for-the-badge)
+![CCAR](https://img.shields.io/badge/CCAR-0052CC?style=for-the-badge)
+![CECL](https://img.shields.io/badge/CECL-C62828?style=for-the-badge)
+![Basel III](https://img.shields.io/badge/Basel_III-F57C00?style=for-the-badge)
+![PhD](https://img.shields.io/badge/Ph.D.-Applied_Mathematics-6A1B9A?style=for-the-badge)
 
 ---
 
 ## About Me
 
-- 📊 Quantitative Finance Analyst focused on Consumer Lending and Credit Risk
-- 📈 Experienced in statistical modeling, forecasting, and risk analytics
-- ⚙️ Building scalable data pipelines and model monitoring frameworks
-- 🏦 Working with regulatory risk models supporting CCAR, CECL, and Basel frameworks
-- 🎓 Ph.D. in Applied Mathematics from UNC Charlotte
-- 📚 Former university instructor in Calculus, Statistics, Linear Algebra, and Differential Equations
-- 🌱 Exploring Machine Learning, MLOps, and Data Engineering
+Quantitative Finance professional with a Ph.D. in Applied Mathematics specializing in credit risk modeling, statistical learning, and scalable analytics solutions.
+
+Currently developing regulatory and portfolio risk models for consumer lending portfolios, with experience spanning model development, validation, governance, and deployment within CCAR, CECL, and Basel frameworks.
+
+My work combines mathematics, machine learning, and data engineering to build production-grade risk analytics systems using Python, PySpark, SQL, Spark, and cloud-native technologies.
 
 ---
 
-## Areas of Expertise
+## Core Expertise
 
-- Credit Risk Modeling
-- Consumer Lending Analytics
-- Statistical Learning
-- Model Risk Management (MRM)
-- CECL & CCAR Frameworks
-- Basel Regulatory Modeling
-- Machine Learning
-- Forecasting & Time Series Analysis
-- Data Engineering
-- Distributed Computing
-- Applied Mathematics
+📊 Credit Risk Modeling  
+📈 Statistical Learning & Forecasting  
+🏦 Consumer Lending Analytics  
+⚖️ Model Risk Management (MRM)  
+📉 CECL & CCAR Frameworks  
+💰 Basel Capital Analytics  
+⚙️ Data Engineering & Automation  
+🚀 Distributed Computing (Spark/Hadoop)
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-### Programming Languages
+### Languages
 
-`Python` `SQL` `PySpark` `SAS`
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1)
+![SAS](https://img.shields.io/badge/SAS-005CAA)
 
-### Data Science & Analytics
+### Data & Analytics
 
-`Pandas` `NumPy` `Scikit-Learn` `Statistical Modeling`
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 
-### Big Data Technologies
+### Big Data
 
-`Spark` `Hadoop` `Hive`
-
-### Software Development
-
-`Git` `CI/CD` `Unit Testing` `Automation`
-
-### Domain Expertise
-
-`Credit Risk` `Consumer Lending` `Model Governance` `Regulatory Analytics`
-
----
-
-## Research Interests
-
-- Quantitative Finance
-- Credit Risk Analytics
-- Machine Learning
-- Statistical Modeling
-- Applied Mathematics
-- Data Engineering
-- Optimization
-- Scientific Computing
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black)
+![Hive](https://img.shields.io/badge/Hive-FDEE21)
 
 ---
 
-## Education
-
-**Ph.D., Applied Mathematics**  
-University of North Carolina at Charlotte
-
-
----
-
-## Connect With Me
-
-- 🌐 Website: https://rajanpuri.com
-- 💼 LinkedIn: https://linkedin.com/in/rajanpuri
-- 📧 Email: purirajan.rp@gmail.com
-- 🐙 GitHub: https://github.com/purirajan
-
----
-
-> Bridging mathematics, data science, and engineering to solve complex financial problems.
+> Bridging mathematics, data science, and engineering to solve complex financial risk problems.
