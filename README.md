@@ -1,6 +1,6 @@
 # Rajan Puri
 
-### Quantitative Finance | Credit Risk Modeling | Applied Mathematics
+### Quantitative Finance | Credit Risk Modeling | Machine Learning
 
 ![Quant Finance](https://img.shields.io/badge/Quantitative-Finance-0A2540?style=for-the-badge)
 ![Credit Risk](https://img.shields.io/badge/Credit-Risk_Modeling-1F6FEB?style=for-the-badge)
