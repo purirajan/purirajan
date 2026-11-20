@@ -53,12 +53,19 @@ Currently developing regulatory and portfolio risk models for consumer lending p
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1)
 ![SAS](https://img.shields.io/badge/SAS-005CAA)
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-### Data & Analytics
+### Data, Analytics & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
 ### Big Data
 
@@ -66,22 +73,20 @@ Currently developing regulatory and portfolio risk models for consumer lending p
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21)
 
+### MLOps & Development
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+### Cloud Deployment Foundations
+
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)
+
 ---
-
-## GitHub Stats & Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=purirajan&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Rajan's GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=purirajan&theme=github-dark-blue&hide_border=true" alt="Rajan's GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purirajan&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purirajan&theme=github-compact&hide_border=true" alt="Rajan's GitHub contribution activity graph" />
-</p>
 
 ## Let's Connect
 
