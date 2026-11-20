@@ -66,6 +66,23 @@ Currently developing regulatory and portfolio risk models for consumer lending p
 ![Hadoop](https://img.shields.io/badge/Hadoop-FFCC00?logo=apachehadoop&logoColor=black)
 ![Hive](https://img.shields.io/badge/Hive-FDEE21)
 
+---
+
+## GitHub Stats & Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=purirajan&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Rajan's GitHub stats" />
+  <img height="165" src="https://streak-stats.demolab.com?user=purirajan&theme=github-dark-blue&hide_border=true" alt="Rajan's GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=purirajan&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=purirajan&theme=github-compact&hide_border=true" alt="Rajan's GitHub contribution activity graph" />
+</p>
+
 ## Let's Connect
 
 I'm always happy to exchange ideas, collaborate on interesting projects, and learn from others in the community.
